@@ -20,7 +20,7 @@ A simple bank system built using Java. This project allows users to create accou
 
 1. Clone this repository to your local machine:
     ```bash
-    git clone https://github.com/yourusername/bank-system.git
+    https://github.com/sriraman-03/Banking-System-in-Java.git
     ```
 
 2. Navigate to the project directory:
